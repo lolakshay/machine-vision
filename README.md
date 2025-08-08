@@ -62,9 +62,3 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows the existing style and includes appropriate comments.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Thanks to the `customtkinter`, `OpenCV`, and `Pillow` communities for their powerful tools.
-- Inspired by the need for efficient data collection in AI vision research.
