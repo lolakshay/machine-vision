@@ -39,7 +39,7 @@ This repository contains a Python application for capturing photos from a webcam
 ## Usage
 1. Run the application:
    ```bash
-   python photo_capture_app.py
+   python app.py
    ```
 2. The intro screen will appear. Click "Start Application" to proceed.
 3. Configure capture settings (camera, interval, folder, max images) and image adjustments/filters.
